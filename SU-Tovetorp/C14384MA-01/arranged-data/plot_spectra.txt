@@ -1,0 +1,3 @@
+# Import xSepctre dataset
+
+/Users/thomasgumbricht/docs-local/OSSL/SU-Tovetorp/C14384MA-01/arranged-data/json-plots/plot_xspectre-spectra_Tovetorp_C14384MA-01_nir_600-1050_10.json

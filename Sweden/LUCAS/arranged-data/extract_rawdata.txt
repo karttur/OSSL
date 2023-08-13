@@ -1,0 +1,26 @@
+# OSSL LUCAS Sweden extract raw data
+
+
+/Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/json-import/import_ossl-spectra_sweden-LUCAS_nir_460-1050_10.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/json/import_ossl-LUCAS_spectra_sweden_nir_600-1050_20.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_600-1050_40.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_460-1050_10.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_460-1050_20.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_460-1050_40.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_600-1750_10.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_600-1750_20.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_600-1750_40.json
+
+## REMOVE TO RUN ## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_600-2500_10.json
+
+## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_600-2500_20.json
+
+## /Users/thomasgumbricht/OSSL/se/OSSL_se-oster+vaster-goetland_20220907/rawdata/script/import_ossl-spectra_south-central-sweden_nir_600-2500_40.json

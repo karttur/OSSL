@@ -1,0 +1,87 @@
+{
+  "verbose": 1,
+  "id": "auto",
+  "name": "auto",
+  "userId": "youruserid - any for now",
+  "importVersion": "OSSL-202308",
+  "campaign": {
+    "campaignId": "OSSL-region-etc",
+    "campaignShortId": "OSSL-xyz",
+    "campaignType": "laboratory",
+    "theme": "soil",
+    "product": "diffuse reflectance",
+    "units": "fraction",
+    "geoRegion": "Sweden"
+  },
+  "input": {
+    "jsonSpectraDataFilePath": "path/to/jsonfile/with/spectraldata.json"
+  },
+  "plot": {
+    "colorRamp": "jet",
+    "maxSpectra": 100,
+    "figSize": {
+      "x": 0,
+      "y": 0
+    },
+    "legend": false,
+    "tightLayout": false,
+    "supTitle": "auto",
+    "screenDraw": true,
+    "savePng": true,
+    "xLim": {
+      "xMin": 0,
+      "xMax": 0
+    },
+    "raw": {
+      "apply": true,
+      "axisLabel": {
+        "x": "Wavelength (nm)",
+        "y": "reflectance"
+      },
+      "yLim": {
+        "yMin": 0,
+        "yMax": 0
+      },
+      "title": {
+        "x": 0,
+        "y": 0,
+        "title": "Original spectra"
+      },
+      "text": {
+        "x": 0.02,
+        "y": 0.8,
+        "bandWidth": true,
+        "samples": true,
+        "skipStep": true,
+        "text": ""
+      }
+    },
+    "derivatives": {
+      "apply": true,
+      "axisLabel": {
+        "x": "Wavelength (nm)",
+        "y": "Derivative"
+      },
+      "yLim": {
+        "yMin": 0,
+        "yMax": 0
+      },
+      "title": {
+        "x": 0,
+        "y": 0,
+        "title": "Derivatives"
+      },
+      "text": {
+        "x": 0.6,
+        "y": 0.8,
+        "bandWidth": true,
+        "samples": true,
+        "skipStep": true,
+        "text": ""
+      }
+    },
+    "scatter": {
+      "size": 50
+    }
+  }
+}

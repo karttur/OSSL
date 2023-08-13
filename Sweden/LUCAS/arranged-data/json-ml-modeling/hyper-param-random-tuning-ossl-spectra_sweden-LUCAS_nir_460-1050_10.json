@@ -1,0 +1,127 @@
+{
+  "RandomTuning": {
+    "fraction": 0.5,
+    "nIterSearch": 30,
+    "n_best_report": 3,
+    "OLS": {
+      "apply": false,
+      "tuningparams": {}
+    },
+    "TheilSen": {
+      "apply": false,
+      "tuningparams": {}
+    },
+    "Huber": {
+      "apply": false,
+      "tuningparams": {}
+    },
+    "KnnRegr": {
+      "apply": false,
+      "tuningparams": {
+        "n_neighbors": {
+          "min": 4,
+          "max": 12
+        },
+        "leaf_size": {
+          "min": 10,
+          "max": 50
+        },
+        "weights": [
+          "uniform",
+          "distance"
+        ],
+        "p": [
+          1,
+          2
+        ],
+        "algorithm": [
+          "auto",
+          "ball_tree",
+          "kd_tree",
+          "brute"
+        ]
+      }
+    },
+    "DecTreeRegr": {
+      "apply": false,
+      "tuningparams": {
+        "max_depth": [
+          3,
+          0
+        ],
+        "min_samples_split": {
+          "min": 2,
+          "max": 6
+        },
+        "min_samples_leaf": {
+          "min": 1,
+          "max": 4
+        }
+      }
+    },
+    "SVR": {
+      "apply": false,
+      "tuningparams": {
+        "kernel": [
+          "linear",
+          "rbf"
+        ],
+        "epsilon": [
+          0.05,
+          0.1,
+          0.2
+        ],
+        "C": [
+          1,
+          2,
+          5,
+          10
+        ]
+      }
+    },
+    "RandForRegr": {
+      "apply": true,
+      "tuningparams": {
+        "max_depth": [
+          3,
+          2,
+          1,
+          0
+        ],
+        "n_estimators": {
+          "min": 10,
+          "max": 50
+        },
+        "max_features": {
+          "min": 1,
+          "max": 12
+        },
+        "min_samples_split": {
+          "min": 2,
+          "max": 6
+        },
+        "min_samples_leaf": {
+          "min": 1,
+          "max": 4
+        },
+        "bootstrap": [
+          true,
+          false
+        ]
+      }
+    },
+    "MLP": {
+      "apply": false,
+      "tuningparams": {
+        "alpha": {
+          "min": 0.0001,
+          "max": 0.001
+        },
+        "max_iter": {
+          "min": 200,
+          "max": 300
+        }
+      }
+    }
+  }
+}

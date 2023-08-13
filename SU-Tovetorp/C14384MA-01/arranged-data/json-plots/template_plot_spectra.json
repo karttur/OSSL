@@ -1,0 +1,52 @@
+{
+  "verbose": 1,
+  "id": "xspectre_Tovetorp_C14384MA_20230813",
+  "name": "xspectre_Tovetorp_C14384MA",
+  "userId": "thomasg",
+  "importVersion": "importxspectrev080",
+  "campaign": {
+    "campaignId": "xspectre_Tovetorp_C14384MA",
+    "campaignShortId": "xspectre_Tovetorp_C14384MA",
+    "campaignType": "laboratory",
+    "theme": "soil",
+    "product": "diffuse reflectance",
+    "units": "fraction",
+    "geoRegion": "Sweden"
+  },
+  "input": {
+    "jsonSpectraDataFilePath": "/Users/thomasgumbricht/docs-local/OSSL/SU-Tovetorp/C14384MA-01/arranged-data/xspectre/data-xspectrolum_C14384MA-01_600-1050_10.json",
+    "bandjump": 1
+  },
+  "plot": {
+    "raw": true,
+    "derivative": true,
+    "colorRamp": "jet",
+    "maxSpectra": 100,
+    "figSize": {
+      "x": 0,
+      "y": 0
+    },
+    "legend": false,
+    "tightLayout": false,
+    "scatter": {
+      "size": 50
+    },
+    "text": {
+      "x": 0.1,
+      "y": 0.9,
+      "bandWidth": true,
+      "samples": true,
+      "text": ""
+    }
+  },
+  "figure": {
+    "raw": true,
+    "derivative": true
+  },
+  "xyLim": {
+    "xMin": 15,
+    "xMax": 80,
+    "yMin": 45,
+    "yMax": 80
+  }
+}

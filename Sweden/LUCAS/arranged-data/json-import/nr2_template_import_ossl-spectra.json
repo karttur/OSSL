@@ -1,0 +1,60 @@
+{
+  "verbose": 1,
+  "userid": "youruserid - any for now",
+  "importversion": "OSSL-202308",
+  "campaign": {
+    "campaignshortid": "OSSL",
+    "campaigntype": "laboratory",
+    "theme": "soil",
+    "product": "diffuse reflectance",
+    "units": "fraction",
+    "georegion": "Sweden"
+  },
+  "soilsample": {
+    "mindepth": 0,
+    "maxdepth": 20
+  },
+  "input": {
+    "rootFP": "/path/to/folder/with/downloaded/ossl/data",
+    "visnirSubFP": "visnir",
+    "mirSubFP": "mir",
+    "neonSubFP": "neon",
+    "visnir": true,
+    "mir": false,
+    "neon": false,
+    "visnirBegin": 460,
+    "visnirEnd": 2500,
+    "visnirInputBandWidth": 2,
+    "visnirOutputBandWidth": 10,
+    "mirBegin": 2500,
+    "mirEnd": 8000,
+    "mirInputBandWidth": 2,
+    "mirOutputBandWidth": 10,
+    "neonBegin": 1350,
+    "neonEnd": 2550,
+    "neonInputBandWidth": 2,
+    "neonOutputBandWidth": 10,
+    "percentOK": 70,
+    "labData": [
+      "caco3_usda.a54_w.pct",
+      "cec_usda.a723_cmolc.kg",
+      "cf_usda.c236_w.pct",
+      "clay.tot_usda.a334_w.pct",
+      "ec_usda.a364_ds.m",
+      "k.ext_usda.a725_cmolc.kg",
+      "n.tot_usda.a623_w.pct",
+      "oc_usda.c729_w.pct",
+      "p.ext_usda.a274_mg.kg",
+      "ph.cacl2_usda.a481_index",
+      "ph.h2o_usda.a268_index",
+      "sand.tot_usda.c60_w.pct",
+      "silt.tot_usda.c62_w.pct"
+    ],
+    "labDataRange": {
+      "caco3_usda.a54_w.pct": {
+        "min": 0,
+        "max": 10
+      }
+    }
+  }
+}

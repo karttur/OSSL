@@ -1,0 +1,62 @@
+{
+  "verbose": 1,
+  "id": "OSSL-Europe-Lucas_20230812",
+  "name": "OSSL-Europe-Lucas",
+  "userId": "thomasg",
+  "importVersion": "OSSL-202308",
+  "campaign": {
+    "campaignId": "OSSL-Europe-Lucas_20230812",
+    "campaignShortId": "OSSL-Europe-Lucas",
+    "campaignType": "laboratory",
+    "theme": "soil",
+    "product": "diffuse reflectance",
+    "units": "fraction",
+    "geoRegion": "Europe"
+  },
+  "input": {
+    "jsonSpectraDataFilePath": "/Users/thomasgumbricht/docs-local/OSSL/Europe/LUCAS/arranged-data/visnir/data-visnir_LUCAS_460-1050_10.json",
+    "yband": 1045
+  },
+  "model": {
+    "regressor": "OLS",
+    "distillStd": 1.0
+  },
+  "plot": {
+    "minMaxSoilLines": true,
+    "rawRegressionSoilLines": true,
+    "distilledRegressionSoilLines": true,
+    "colorRamp": "jet",
+    "maxScatterBands": 6,
+    "figSize": {
+      "x": 0,
+      "y": 0
+    },
+    "legend": false,
+    "tightLayout": false,
+    "scatter": {
+      "size": 50
+    },
+    "endMembers": {
+      "lightSoil": {
+        "size": 150,
+        "color": "lightgrey"
+      },
+      "darkSoil": {
+        "size": 150,
+        "color": "black"
+      }
+    },
+    "text": {
+      "x": 0.6,
+      "y": 0.2,
+      "bandWidth": true,
+      "samples": true,
+      "text": ""
+    }
+  },
+  "figure": {
+    "minMaxSoilLines": true,
+    "rawRegressionSoilLines": true,
+    "distilledRegressionSoilLines": true
+  }
+}

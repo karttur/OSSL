@@ -1,0 +1,88 @@
+{
+  "verbose": 1,
+  "id": "xspectre_Tovetorp_C14384MA_20230813",
+  "name": "xspectre_Tovetorp_C14384MA",
+  "userId": "thomasg",
+  "importVersion": "importxspectrev080",
+  "campaign": {
+    "campaignId": "xspectre_Tovetorp_C14384MA",
+    "campaignShortId": "xspectre_Tovetorp_C14384MA",
+    "campaignType": "laboratory",
+    "theme": "soil",
+    "product": "diffuse reflectance",
+    "units": "fraction",
+    "geoRegion": "Sweden"
+  },
+  "input": {
+    "jsonSpectraDataFilePath": "/Users/thomasgumbricht/docs-local/OSSL/SU-Tovetorp/C14384MA-01/arranged-data/xspectre/data-xspectrolum_C14384MA-01_600-1050_10.json",
+    "bandjump": 1
+  },
+  "plot": {
+    "figSize": {
+      "x": 8,
+      "y": 6
+    },
+    "screenDraw": true,
+    "savePng": true,
+    "supTitle": "auto",
+    "raw": {
+      "apply": true,
+      "axisLabel": {
+        "x": "Wavelength (nm)",
+        "y": "reflectance"
+      },
+      "yLim": {
+        "yMin": 0,
+        "yMax": 0
+      },
+      "title": {
+        "x": 0,
+        "y": 0,
+        "title": "Original spectra"
+      },
+      "text": {
+        "x": 0.02,
+        "y": 0.8,
+        "bandWidth": true,
+        "samples": true,
+        "skipStep": true,
+        "text": ""
+      }
+    },
+    "derivatives": {
+      "apply": true,
+      "axisLabel": {
+        "x": "Wavelength (nm)",
+        "y": "derivate"
+      },
+      "yLim": {
+        "yMin": 0,
+        "yMax": 0
+      },
+      "title": {
+        "x": 0,
+        "y": 0,
+        "title": "Derivates"
+      },
+      "text": {
+        "x": 0.6,
+        "y": 0.8,
+        "bandWidth": false,
+        "samples": false,
+        "skipStep": false,
+        "text": "Derivate"
+      }
+    },
+    "xLim": {
+      "xMin": 0,
+      "xMax": 0
+    },
+    "colorRamp": "jet",
+    "maxSpectra": 500,
+    "legend": false,
+    "tightLayout": true,
+    "scatter": {
+      "size": 50
+    }
+  }
+}

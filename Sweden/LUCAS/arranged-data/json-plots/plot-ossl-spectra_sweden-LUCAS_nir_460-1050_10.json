@@ -1,0 +1,87 @@
+{
+  "verbose": 1,
+  "id": "Sweden_LUCAS_460-1050_10_20230807",
+  "name": "Sweden_LUCAS_460-1050_10",
+  "userId": "thomasg",
+  "importVersion": "OSSL-202308",
+  "campaign": {
+    "campaignShortId": "OSSL-LUCAS-SE",
+    "campaignType": "laboratory",
+    "theme": "soil",
+    "product": "diffuse reflectance",
+    "units": "fraction",
+    "geoRegion": "Sweden"
+  },
+  "input": {
+    "jsonSpectraDataFilePath": "/Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/visnir/data-visnir_LUCAS_460-1050_10.json",
+    "bandjump": 1
+  },
+  "plot": {
+    "figSize": {
+      "x": 8,
+      "y": 6
+    },
+    "screenDraw": true,
+    "savePng": true,
+    "supTitle": "auto",
+    "raw": {
+      "apply": true,
+      "axisLabel": {
+        "x": "Wavelength (nm)",
+        "y": "reflectance"
+      },
+      "yLim": {
+        "yMin": 0.1,
+        "yMax": 0.5
+      },
+      "title": {
+        "x": 0,
+        "y": 0,
+        "title": "Original spectra"
+      },
+      "text": {
+        "x": 0.02,
+        "y": 0.8,
+        "bandWidth": true,
+        "samples": true,
+        "skipStep": true,
+        "text": ""
+      }
+    },
+    "derivatives": {
+      "apply": true,
+      "axisLabel": {
+        "x": "Wavelength (nm)",
+        "y": "derivate"
+      },
+      "yLim": {
+        "yMin": 0,
+        "yMax": 0
+      },
+      "title": {
+        "x": 0,
+        "y": 0,
+        "title": "Derivates"
+      },
+      "text": {
+        "x": 0.6,
+        "y": 0.8,
+        "bandWidth": false,
+        "samples": false,
+        "skipStep": false,
+        "text": "Derivate"
+      }
+    },
+    "xLim": {
+      "xMin": 465,
+      "xMax": 1045
+    },
+    "colorRamp": "jet",
+    "maxSpectra": 500,
+    "legend": false,
+    "tightLayout": true,
+    "scatter": {
+      "size": 50
+    }
+  }
+}

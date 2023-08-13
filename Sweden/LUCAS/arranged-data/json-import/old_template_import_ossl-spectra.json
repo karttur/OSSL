@@ -1,0 +1,62 @@
+{
+  "verbose": 1,
+  "input": {
+    "rootFP": "/path/to/folder/with/downloaded/ossl/data",
+    "visnirSubFP": "visnirjson",
+    "mirSubFP": "mirjson",
+    "neonSubFP": "mirjson",
+    "spectraunits": "percent",
+    "visnir": true,
+    "mir": true,
+    "neon": true,
+    "visnirBegin": 460,
+    "visnirEnd": 2500,
+    "visnirStep": 2,
+    "visnirInputBandWidth": 2,
+    "visnirOutputBandWidth": 10,
+    "mirBegin": 460,
+    "mirEnd": 460,
+    "mirStep": 2,
+    "percentOK": 70,
+    "labData": [
+      "c.tot_usda.4h2_wpct",
+      "ca.ext_usda.4b1_cmolkg",
+      "caco3_usda.4e1_wpct",
+      "oc_usda.calc_wpct",
+      "cec.ext_usda.4b1_cmolkg",
+      "clay.tot_usda.3a1_wpct",
+      "ecec_usda.4b4_cmolkg",
+      "ec.w_usda.4f1_dsm",
+      "fe.dith_usda.4g1_wpct"
+    ],
+    "labDataRange": {
+      "oc_usda.calc_wpct": {
+        "min": 0,
+        "max": 10
+      }
+    }
+  },
+  "campaign": {
+    "id": "OSSL",
+    "kind": "laboratory",
+    "instrument": "unknown VIS-NIR lab spectrometer",
+    "dataprep": "Drying and sieving",
+    "fielddate": "2010-10-10",
+    "spectradate": "2010-10-12",
+    "region": {
+      "name": "South central Sweden",
+      "east": 16,
+      "west": 23,
+      "south": 54,
+      "north": 58
+    }
+  },
+  "soilsample": {
+    "kind": "NA",
+    "landuse": "NA",
+    "dominatparticle": "NA",
+    "horizon": "NA",
+    "mindepth": 0,
+    "maxdepth": 20
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "verbose": 1,
+  "id": "xspectre_Tovetorp_C14384MA_20230813",
+  "name": "xspectre_Tovetorp_C14384MA",
+  "userId": "thomasg",
+  "importVersion": "importxspectrev080",
+  "campaign": {
+    "campaignId": "xspectre_Tovetorp_C14384MA",
+    "campaignShortId": "xspectre_Tovetorp_C14384MA",
+    "campaignType": "laboratory",
+    "theme": "soil",
+    "product": "diffuse reflectance",
+    "units": "fraction",
+    "geoRegion": "Sweden"
+  },
+  "rootFP": "/Users/thomasgumbricht/docs-local/OSSL/SU-Tovetorp/C14384MA-01",
+  "whiteReference": "whiteref-start_c14384ma-01_raw-spectra_tovetorp_20230627_soil.json",
+  "whiteReferenceFactor": 1,
+  "soilSample": {
+    "minDepth": 0,
+    "maxDepth": 100
+  },
+  "xspectrolum": {
+    "apply": true,
+    "subFP": "xspectre",
+    "beginWaveLength": 600,
+    "endWaveLength": 1050,
+    "outputBandWidth": 10
+  },
+  "mode": "default",
+  "version": "",
+  "prepcode": "",
+  "scan": "",
+  "getList": "glob",
+  "listPath": "/Users/thomasgumbricht/docs-local/OSSL/SU-Tovetorp/C14384MA-01/data-xspectre",
+  "pattern": "*tovetorp*",
+  "sitedata": [
+    "id.layer_local_c",
+    "dataset.code_ascii_txt",
+    "longitude.point_wgs84_dd",
+    "latitude.point_wgs84_dd",
+    "location.point.error_any_m",
+    "layer.upper.depth_usda_cm",
+    "layer.lower.depth_usda_cm",
+    "id_vis",
+    "id_mir"
+  ]
+}

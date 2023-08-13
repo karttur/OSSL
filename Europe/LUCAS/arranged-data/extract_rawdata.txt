@@ -1,0 +1,3 @@
+# OSSL data over Europe from the LUCAS sampling frame
+
+/Users/thomasgumbricht/docs-local/OSSL/Europe/LUCAS/arranged-data/json-import/import_ossl-spectra_europe-LUCAS_nir_460-1050_10.json
