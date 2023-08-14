@@ -1,5 +1,5 @@
 {
-  "id": "Sweden_C14384MA-01_600-1050_10_20230813",
+  "id": "Sweden_C14384MA-01_600-1050_10_20230814",
   "name": "Sweden_C14384MA-01_600-1050_10",
   "userId": "thomasg",
   "importVersion": "importxspectrev080",
@@ -119,6 +119,24 @@
         0.42894430531550903,
         0.4175298607325174,
         0.382864071130272
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.5324656722119
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.5143040980689
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.3562708859033
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.07424688339233
+        }
       ]
     },
     {
@@ -180,6 +198,40 @@
         0.5032626715107041,
         0.5063686375576149,
         0.5318604337868786
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.61602215440442
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.59323603720829
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.85368830084458
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.95069932937622
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 9.3663445817815
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 14.8992705611291
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 26.4836269711414
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 128.234596509505
+        }
       ]
     },
     {
@@ -241,67 +293,24 @@
         0.3636379669147481,
         0.4220399464737078,
         0.6209079886838181
-      ]
-    },
-    {
-      "id": "41-15-201",
-      "meta": {
-        "siteLocalId": "tovetorp_41-15-201",
-        "dataset": "xspectre_c14384ma-01",
-        "minDepth": "15",
-        "maxDepth": "201",
-        "scandatebegin": "20230627",
-        "scandateend": "20230627",
-        "sampleprep": "a0",
-        "instrument": "Hamamatsu C14384MA-01"
-      },
-      "signalMean": [
-        0.360576923076924,
-        0.3169583200763595,
-        0.4753331317048862,
-        0.46414996544574944,
-        0.4010731231430973,
-        0.3948264072358812,
-        0.46908306790778853,
-        0.44665094002430505,
-        0.36372934518262645,
-        0.4103424105651379,
-        0.4090108230556253,
-        0.4117918592666131,
-        0.4091079911930623,
-        0.4106302479641065,
-        0.4066204467966851,
-        0.41750519959478855,
-        0.426399052761381,
-        0.43168385189187564,
-        0.43166297540516935,
-        0.43633974515031054,
-        0.4344627562834,
-        0.44149207343664587,
-        0.4441189566684634,
-        0.4458796555765018,
-        0.447705571106902,
-        0.447666719385503,
-        0.4530901346453932,
-        0.4458521583492132,
-        0.45682490290179195,
-        0.44846491228070173,
-        0.4488569052000101,
-        0.4548150284514237,
-        0.4559976956711537,
-        0.47000501431376834,
-        0.4600734587783241,
-        0.46997321928828084,
-        0.45285408865655763,
-        0.4687360314215162,
-        0.49109840139191147,
-        0.44561664876600887,
-        0.4743893288263018,
-        0.46787528937795037,
-        0.509443944764827,
-        0.47767274522944514,
-        0.5245824453585762,
-        0.425838609726526
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.1226410214581
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.09101335339036
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 9.85861490534388
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.47778415679932
+        }
       ]
     },
     {
@@ -363,6 +372,24 @@
         0.6756551797114737,
         0.7476830054021907,
         0.7637073959315634
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.61219729335873
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.60353038345385
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.68467598791769
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.98399353027344
+        }
       ]
     },
     {
@@ -424,6 +451,24 @@
         0.3915029452223909,
         0.40997175001238995,
         0.4561498046611889
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.18232422302419
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.16989720337461
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 9.27735630705926
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.82311010360718
+        }
       ]
     },
     {
@@ -485,6 +530,40 @@
         0.5158371838735846,
         0.49013728502750653,
         0.5511248821231297
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.55633895283833
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.53838469213824
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.50846751804555
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.92570447921753
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 6.40856389295878
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 15.3932591502669
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 20.560952903237
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 114.59974561774
+        }
       ]
     },
     {
@@ -546,6 +625,24 @@
         0.37573630559768734,
         0.4491995836843934,
         0.5077461942610797
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.32372762494964
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.24005130378859
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.90341648388416
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.57638263702393
+        }
       ]
     },
     {
@@ -607,6 +704,24 @@
         0.5360481111777367,
         0.5502800218070081,
         0.6174053617135917
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.63591655492645
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.62346605244381
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.69125341795228
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.39015817642212
+        }
       ]
     },
     {
@@ -668,6 +783,28 @@
         0.33319812352297973,
         0.4062546463795406,
         0.45736225245857265
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 0.955528057073056
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.927330115274229
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 8.97954183510964
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.14134645462036
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.78227233886719
+        }
       ]
     },
     {
@@ -729,6 +866,40 @@
         0.49594370568939355,
         0.5356594141844668,
         0.5317257173649452
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.49267687116784
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.47487756890662
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.76101677258048
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.70165157318115
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 9.46599713581908
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.74540240203992
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 14.4317738686113
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 80.7601029648338
+        }
       ]
     },
     {
@@ -790,6 +961,20 @@
         0.4027900250432088,
         0.41527481786192183,
         0.5237774484709675
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.77119847847625
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.74598259439387
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.18630273714922
+        }
       ]
     },
     {
@@ -851,6 +1036,24 @@
         0.37257945046030155,
         0.46632304108638506,
         0.4568233867708475
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.64560067906311
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.62973946769864
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.2405973830239
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.04610300064087
+        }
       ]
     },
     {
@@ -912,6 +1115,20 @@
         0.34732460936122206,
         0.3608068592952374,
         0.5267412097534687
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.31362726646958
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.29051158466686
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.41560246720529
+        }
       ]
     },
     {
@@ -973,6 +1190,24 @@
         0.35877041374202034,
         0.3796649650592262,
         0.5946382864071099
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.09478886072726
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.0749139165468
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 8.69612127097157
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.4298529624939
+        }
       ]
     },
     {
@@ -1034,6 +1269,40 @@
         0.48051215124686947,
         0.4814640432175249,
         0.6136333018995032
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.42901478949735
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.41169754099192
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.57602848700658
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.70943784713745
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.00919101123918
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 5.55107787145328
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 30.0218641705304
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 72.2603517497934
+        }
       ]
     },
     {
@@ -1095,6 +1364,24 @@
         0.4519240943882051,
         0.42124696436536674,
         0.517580493062103
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.11070438114488
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.10075737349576
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.44875298349994
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.47408866882324
+        }
       ]
     },
     {
@@ -1156,6 +1443,24 @@
         0.24752213325808628,
         0.2780145710462407,
         0.39673986258924687
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.3932048685577
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.3741057825182
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.35458302283043
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.68649530410767
+        }
       ]
     },
     {
@@ -1217,6 +1522,24 @@
         0.3055095058375366,
         0.2996481141894233,
         0.3679105482958346
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.52623411761585
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.45526698608195
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.26020842626009
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.7958550453186
+        }
       ]
     },
     {
@@ -1278,6 +1601,24 @@
         0.4815703149800712,
         0.478985974128959,
         0.5019533881180112
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 0.907781495820186
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.896512206579235
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 7.56493289710892
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.76958608627319
+        }
       ]
     },
     {
@@ -1339,6 +1680,20 @@
         0.38783464428062625,
         0.5349903355305545,
         0.5795500471507465
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.71549415701457
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.68937729717713
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.35280670561342
+        }
       ]
     },
     {
@@ -1400,6 +1755,24 @@
         0.47735529610948374,
         0.44818357535808157,
         0.5148861646234654
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.2579229450079
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.24578206521762
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.50250849652048
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.49545955657959
+        }
       ]
     },
     {
@@ -1461,6 +1834,24 @@
         0.3999506190257839,
         0.5410368241066558,
         0.5321298666307444
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.72659043772785
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.7148852833859
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.52349563385546
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.28186559677124
+        }
       ]
     },
     {
@@ -1522,6 +1913,24 @@
         0.8012944869669489,
         0.9090548644496202,
         0.8518119358749816
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.55236007273393
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.52954823386749
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.07220696108912
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.69287490844727
+        }
       ]
     },
     {
@@ -1583,6 +1992,40 @@
         0.3635674226658674,
         0.40216583238340725,
         0.4445641923750487
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.56031783294274
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.54122499776329
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.59382350709463
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.79665565490723
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 11.9028030135501
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 7.21849476654334
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 16.4265683920786
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 101.751386344632
+        }
       ]
     },
     {
@@ -1644,6 +2087,40 @@
         0.3522803428450498,
         0.43822173762204475,
         0.4655799541964135
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.23404966438146
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.21800804540812
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.25566540542739
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.58373546600342
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.23039049910512
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 9.56094894565602
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 14.8485266865821
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 56.1902021781632
+        }
       ]
     },
     {
@@ -1705,6 +2182,24 @@
         0.29649747804310217,
         0.27692422064727146,
         0.33113296510844825
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.464824710437
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.44808988717038
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.18200794829593
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.67978048324585
+        }
       ]
     },
     {
@@ -1766,6 +2261,20 @@
         0.4317837113329337,
         0.47658224711304964,
         0.4830930890475556
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.52052903189868
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.50484625709689
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.43665768194069
+        }
       ]
     },
     {
@@ -1827,6 +2336,20 @@
         0.5232266939437759,
         0.5728552312038457,
         0.5703893304593856
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.54042343242071
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.52255452060463
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.30411572240399
+        }
       ]
     },
     {
@@ -1888,6 +2411,24 @@
         0.46726746851962947,
         0.5651236556475201,
         0.621042705105751
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.72743079732778
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.71212891836771
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.66705289199261
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.89898157119751
+        }
       ]
     },
     {
@@ -1949,6 +2490,24 @@
         0.4167577863214704,
         0.5233434108142933,
         0.4918496564731248
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.65978983555289
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.64222592194915
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.23296732816225
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.10823488235474
+        }
       ]
     },
     {
@@ -2010,6 +2569,20 @@
         0.3315756057987372,
         0.30190315706001886,
         0.35147514482015396
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.65978983555289
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.64490538030184
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.54304467768019
+        }
       ]
     },
     {
@@ -2071,6 +2644,24 @@
         0.4314486261507542,
         0.5148931952222824,
         0.549777717903813
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 0.983380217803897
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.968006618711545
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 11.277498658602
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.58555316925049
+        }
       ]
     },
     {
@@ -2132,6 +2723,24 @@
         0.4611830270537194,
         0.42932546959409235,
         0.5198706722349457
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.03112677905677
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.02038327251462
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 7.35384761272579
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.45561408996582
+        }
       ]
     },
     {
@@ -2193,6 +2802,20 @@
         0.39427180699093484,
         0.3847697873816718,
         0.36562036912299617
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.464824710437
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.6522829434814
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.01227514609383
+        }
       ]
     },
     {
@@ -2254,6 +2877,24 @@
         0.3829847271701172,
         0.3668533478713386,
         0.4242220126633425
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.24490201929772
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.21958626903239
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.7329102701694
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.71221780776978
+        }
       ]
     },
     {
@@ -2315,6 +2956,24 @@
         0.555959225424147,
         0.5253754274669178,
         0.5788764650410879
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.3255639067828
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.31315388109334
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.48155444126077
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.94855690002441
+        }
       ]
     },
     {
@@ -2376,6 +3035,24 @@
         0.4656449507953866,
         0.3683154086335923,
         0.46073016300686936
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.49665575127225
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.47101996464154
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.97153830122959
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.15941047668457
+        }
       ]
     },
     {
@@ -2437,6 +3114,16 @@
         0.38979224718704863,
         0.3670763740893093,
         0.38730971305402273
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.14651430208454
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.66144800186157
+        }
       ]
     },
     {
@@ -2498,6 +3185,20 @@
         0.4533878875524673,
         0.4913763195717895,
         0.474605954465849
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.69162087638813
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.67040373493068
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.46053740972908
+        }
       ]
     },
     {
@@ -2559,6 +3260,40 @@
         0.42748051215124716,
         0.5135054765326857,
         0.4887511787686907
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.3295427868872
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.31501388488955
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.03445392206055
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.5764946937561
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 12.0253416668757
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 7.37077608206782
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 13.1661886410674
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 76.9803808156866
+        }
       ]
     },
     {
@@ -2620,6 +3355,24 @@
         0.49594370568939355,
         0.5889378995886408,
         0.5387309713054013
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 0.991337978012709
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.982284152754052
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 9.1968049700466
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.97742795944214
+        }
       ]
     },
     {
@@ -2681,6 +3434,20 @@
         0.367235723607632,
         0.29709570302820026,
         0.33436615923481156
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.67188067302958
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.64632431165684
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.20346320346322
+        }
       ]
     },
     {
@@ -2742,6 +3509,24 @@
         0.4653980459243065,
         0.6587203251226637,
         0.5290313889263103
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.37331046803567
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.35563941921097
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.93859891738117
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.68506240844727
+        }
       ]
     },
     {
@@ -2803,6 +3588,24 @@
         0.4591548798984163,
         0.48307478812509236,
         0.524316314158697
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.63193767482204
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.60137410907192
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.7166142407778
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.36857938766479
+        }
       ]
     },
     {
@@ -2864,6 +3667,20 @@
         0.444040774575853,
         0.3640035684194878,
         0.6641519601239384
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.69559975649254
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.62888150179358
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.67479087059796
+        }
       ]
     },
     {
@@ -2925,6 +3742,20 @@
         0.49098797220556584,
         0.4610695346186254,
         0.5651353900040422
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.19466033581793
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.1824197049344
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.81177265560478
+        }
       ]
     },
     {
@@ -2986,6 +3817,20 @@
         0.49188741137878683,
         0.40573425187094203,
         0.50101037316449
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.77915623868506
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.74146070732295
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.18223195500022
+        }
       ]
     },
     {
@@ -3047,6 +3892,20 @@
         0.4489965080596807,
         0.5242107349952914,
         0.6007005253940447
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.5324656722119
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.50937719933586
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.01034504915503
+        }
       ]
     },
     {
@@ -3108,6 +3967,28 @@
         0.46125357130260036,
         0.5515933984239482,
         0.5784723157752925
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 0.895844855506969
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.887882674811429
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 8.94904958894068
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.81826591491699
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.68515777587891
+        }
       ]
     },
     {
@@ -3169,6 +4050,40 @@
         0.5173009770378467,
         0.5692868117163106,
         0.5526067627643804
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.64387431513526
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.62570115067391
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.24656371966739
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.05290842056274
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 0.5216637798865
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 5.67404609857392
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 15.2724640382194
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 43.027942437504
+        }
       ]
     },
     {
@@ -3230,6 +4145,40 @@
         0.48060033155796916,
         0.3738167220102109,
         0.5438501953388111
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.38524710834888
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.36242137009048
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.30366638678981
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.56587791442871
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.55205424401955
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 8.12588412055516
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 32.0183864639922
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 84.6609409267728
+        }
       ]
     },
     {
@@ -3291,6 +4240,40 @@
         0.37429014849564385,
         0.45990484214699945,
         0.41923750505186547
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.55633895283833
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.48691733745374
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.38001638001637
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.64365768432617
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 10.0250354077664
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.49816772537262
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 16.5251344603733
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 106.221541343414
+        }
       ]
     },
     {
@@ -3352,6 +4335,24 @@
         0.5101583718387356,
         0.44964563612033487,
         0.6062238986932464
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.3932048685577
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.37663500440067
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.04603472050349
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.75058317184448
+        }
       ]
     },
     {
@@ -3413,6 +4414,20 @@
         0.5228210645127157,
         0.568419487535312,
         0.5317257173649494
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.85475496066877
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.80077413837198
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.66085708427313
+        }
       ]
     },
     {
@@ -3474,6 +4489,20 @@
         0.3696695001939962,
         0.44543291866977186,
         0.4910413579415328
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.3971837486621
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.37087878483268
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.83982876297402
+        }
       ]
     },
     {
@@ -3535,6 +4564,40 @@
         0.4223836901696577,
         0.4818357535808094,
         0.45749696888050606
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.34545830730483
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.32306906363848
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.0074392241952
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.90131616592407
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.0412473663108
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.4778969892107
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 18.523990593986
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 62.0233650246306
+        }
       ]
     },
     {
@@ -3596,6 +4659,20 @@
         0.2198864237593049,
         0.4601278683649702,
         0.467196551259597
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.81138756996207
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.78048110548942
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.02182356204921
+        }
       ]
     },
     {
@@ -3657,6 +4734,24 @@
         0.4353638319635986,
         0.5100857411904642,
         0.5144820153576726
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.08285222041404
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.05807476524547
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.28134072314593
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.93195104598999
+        }
       ]
     },
     {
@@ -3718,6 +4813,20 @@
         0.3678000775986732,
         0.35956782475095406,
         0.36710224976424627
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.5324656722119
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.50748897942412
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.59628286869194
+        }
       ]
     },
     {
@@ -3779,6 +4888,24 @@
         0.3432683150506156,
         0.3668533478713386,
         0.37181732453186017
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.07887334030964
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.06213567914222
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 8.07918427337864
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.85037803649902
+        }
       ]
     },
     {
@@ -3840,6 +4967,20 @@
         0.4171810518147496,
         0.5112504336620901,
         0.38488481745924724
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.66376871565729
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.64283414075295
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.07281889141389
+        }
       ]
     },
     {
@@ -3901,6 +5042,24 @@
         0.4792952629536874,
         0.519700649254101,
         0.5390004041492643
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.11468326124929
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.10497847749102
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 7.48035733505543
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.74158811569214
+        }
       ]
     },
     {
@@ -3962,6 +5121,24 @@
         0.49366865366300977,
         0.4996035089458293,
         0.5177152094840364
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.09478886072726
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.07100230541375
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 14.5177367340956
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.66355466842651
+        }
       ]
     },
     {
@@ -4023,6 +5200,24 @@
         0.43462311735035863,
         0.4451355503791445,
         0.4735282230903944
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.34147942720042
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.32670918708369
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.82696841112683
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.41638135910034
+        }
       ]
     },
     {
@@ -4084,6 +5279,24 @@
         0.4810765052379107,
         0.49348267829707065,
         0.5575912703758569
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.53759306877017
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.51842562105211
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.47880129405755
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.13361072540283
+        }
       ]
     },
     {
@@ -4145,6 +5358,40 @@
         0.4093859123134978,
         0.39817614115081496,
         0.48982891014414476
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.50859239158546
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.46218160177864
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.52158870744532
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.51931428909302
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 9.29306741799492
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.11526898408328
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 15.0536590343712
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 97.991939720195
+        }
       ]
     },
     {
@@ -4206,6 +5453,20 @@
         0.5795210045501029,
         0.5398721316350298,
         0.5742961066954074
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.50821860880483
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.50412574962219
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.86154741128564
+        }
       ]
     },
     {
@@ -4267,6 +5528,20 @@
         0.5053613629148882,
         0.6141398622193586,
         0.565674255691768
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.58816999367358
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.54212477026978
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.15905743740794
+        }
       ]
     },
     {
@@ -4328,6 +5603,24 @@
         0.5245317625480579,
         0.5142984586410276,
         0.5787417486191587
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.54838119262952
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.53702256646455
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.45213579787456
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.60147905349731
+        }
       ]
     },
     {
@@ -4389,6 +5682,20 @@
         0.42180170011639784,
         0.43646230856916285,
         0.4375589384345964
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.22609190417265
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.21234566097675
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.33536585365853
+        }
       ]
     },
     {
@@ -4450,6 +5757,20 @@
         0.60914958907975,
         0.568840759280369,
         0.5650006735821094
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.60806439419561
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.59758441464816
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.9356358984717
+        }
       ]
     },
     {
@@ -4511,6 +5832,44 @@
         0.5005643539910412,
         0.4738315904247404,
         0.5850734204499529
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.87862824129521
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.85153606931448
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.08228049012762
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.17452907562256
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.61154794692993
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 8.45932070768842
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 16.0394368775761
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 26.3992255546802
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 131.376274371155
+        }
       ]
     },
     {
@@ -4572,6 +5931,24 @@
         0.2594617473810448,
         0.2720424245427962,
         0.217432304997981
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.30169062615636
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.28332511916696
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.76717443249701
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.95317029953003
+        }
       ]
     },
     {
@@ -4633,6 +6010,24 @@
         0.5017106980353425,
         0.5478762947910988,
         0.5169069109524449
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.18232422302419
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.15244296337655
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.25643984668012
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.8685188293457
+        }
       ]
     },
     {
@@ -4694,6 +6089,20 @@
         0.45695037212091355,
         0.3999107895128116,
         0.4490098342988037
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.43299366960175
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.40267672074421
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.3585532386049
+        }
       ]
     },
     {
@@ -4755,6 +6164,20 @@
         0.4465627314733166,
         0.4570055013133761,
         0.4523777448470967
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.45288807012378
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.42873239124601
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.24856471816284
+        }
       ]
     },
     {
@@ -4816,6 +6239,40 @@
         0.3451377376459386,
         0.3420230956039057,
         0.2745520678970772
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.44493030991497
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.40156136344199
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.85315168908406
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.59061002731323
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 11.0434855762067
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 9.77735323811618
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 17.7864677734935
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 108.197971109176
+        }
       ]
     },
     {
@@ -4877,6 +6334,20 @@
         0.3556135586046346,
         0.4035535510730039,
         0.45170416273743863
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.37331046803567
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.20709545353619
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.44760614272811
+        }
       ]
     },
     {
@@ -4938,6 +6409,24 @@
         0.45624492963211094,
         0.4795807107102142,
         0.5562441061565402
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.13457766177132
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.10582316483132
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 11.3312021920311
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.44195508956909
+        }
       ]
     },
     {
@@ -4999,6 +6488,20 @@
         0.48961235935240305,
         0.43492590573425244,
         0.4874040145493735
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.59214887377799
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.57584346682188
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.28788308740069
+        }
       ]
     },
     {
@@ -5060,6 +6563,115 @@
         0.5809671616521461,
         0.539574763344402,
         0.555974673312677
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.6677475957617
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.65205821685841
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.56981896442588
+        }
+      ]
+    },
+    {
+      "id": "41-15-20",
+      "meta": {
+        "siteLocalId": "tovetorp_41-15-20",
+        "dataset": "xspectre_c14384ma-01",
+        "minDepth": "15",
+        "maxDepth": "20",
+        "scandatebegin": "20230627",
+        "scandateend": "20230627",
+        "sampleprep": "a0",
+        "instrument": "Hamamatsu C14384MA-01"
+      },
+      "signalMean": [
+        0.360576923076924,
+        0.3169583200763595,
+        0.4753331317048862,
+        0.46414996544574944,
+        0.4010731231430973,
+        0.3948264072358812,
+        0.46908306790778853,
+        0.44665094002430505,
+        0.36372934518262645,
+        0.4103424105651379,
+        0.4090108230556253,
+        0.4117918592666131,
+        0.4091079911930623,
+        0.4106302479641065,
+        0.4066204467966851,
+        0.41750519959478855,
+        0.426399052761381,
+        0.43168385189187564,
+        0.43166297540516935,
+        0.43633974515031054,
+        0.4344627562834,
+        0.44149207343664587,
+        0.4441189566684634,
+        0.4458796555765018,
+        0.447705571106902,
+        0.447666719385503,
+        0.4530901346453932,
+        0.4458521583492132,
+        0.45682490290179195,
+        0.44846491228070173,
+        0.4488569052000101,
+        0.4548150284514237,
+        0.4559976956711537,
+        0.47000501431376834,
+        0.4600734587783241,
+        0.46997321928828084,
+        0.45285408865655763,
+        0.4687360314215162,
+        0.49109840139191147,
+        0.44561664876600887,
+        0.4743893288263018,
+        0.46787528937795037,
+        0.509443944764827,
+        0.47767274522944514,
+        0.5245824453585762,
+        0.425838609726526
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.59214887377799
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.57182207767869
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.89189616342013
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.49212741851807
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.82946852019056
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 8.30209287916652
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 15.9599375354476
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 61.3564417810038
+        }
       ]
     },
     {
@@ -5121,6 +6733,40 @@
         0.478237099220486,
         0.5444565594488773,
         0.5344200458035834
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.40116262876651
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.39327040158873
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.74078761259585
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.92125511169434
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.52596359814058
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 9.94836355454146
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 20.8932756133762
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 61.3163973302
+        }
       ]
     },
     {
@@ -5182,6 +6828,24 @@
         0.5080244083101135,
         0.5504287059523217,
         0.4541290583322136
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.2579229450079
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.24112808482577
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.53638473754936
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.5702977180481
+        }
       ]
     },
     {
@@ -5243,6 +6907,24 @@
         0.4113964234065822,
         0.45655944887743455,
         0.4054964300148198
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.32158502667839
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.30155884378685
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.73137074517017
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.48490333557129
+        }
       ]
     },
     {
@@ -5304,6 +6986,40 @@
         0.5158371838735846,
         0.4237250334539323,
         0.64003772059814
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.59214887377799
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.57795752216267
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.29530201342283
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.7056884765625
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.13667518223929
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 11.0556991046785
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 25.4767111705932
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 73.3764035512406
+        }
       ]
     },
     {
@@ -5365,6 +7081,20 @@
         0.3760713907798671,
         0.4697427764286066,
         0.3761282500336817
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.23404966438146
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.21537699233786
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.12897272913678
+        }
       ]
     },
     {
@@ -5426,6 +7156,40 @@
         0.5570879334062294,
         0.5566238786737366,
         0.6106695406170014
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.48074023085462
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.47012395114463
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.33732216460577
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.52109336853027
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.21078898733119
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 4.8688229977928
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 12.6434691749315
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 57.23911079501
+        }
       ]
     },
     {
@@ -5487,6 +7251,20 @@
         0.449807766921802,
         0.5636120335034939,
         0.53428532938165
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.58235560352331
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.56479714268812
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.41397946315976
+        }
       ]
     },
     {
@@ -5548,6 +7326,20 @@
         0.4848153504285566,
         0.4927640382613858,
         0.4538596254883473
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.77517735858065
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.76303995448429
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.72479877347644
+        }
       ]
     },
     {
@@ -5609,6 +7401,12 @@
         0.4938273782229905,
         0.5834118055211374,
         0.6008352418159781
+      ],
+      "abundances": [
+        {
+          "substance": "pH.pH",
+          "value": 6.2822413444519
+        }
       ]
     },
     {
@@ -5670,6 +7468,40 @@
         0.43462311735035836,
         0.37894632502354136,
         0.6502761686649593
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.64785319523967
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.63217543503906
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.32398014245629
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.00041532516479
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 5.99847134807338
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 15.4052680323341
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 22.5901407600262
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 120.346381159723
+        }
       ]
     },
     {
@@ -5731,6 +7563,20 @@
         0.4105851645444606,
         0.4463002428507704,
         0.4647716556648252
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.45288807012378
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.4236174313484
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.75084328562313
+        }
       ]
     },
     {
@@ -5792,6 +7638,24 @@
         0.3953299707241362,
         0.48168706943549566,
         0.42543446046073047
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.54440231252512
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.51507001257055
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.91273616963437
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.57334899902344
+        }
       ]
     },
     {
@@ -5853,6 +7717,24 @@
         0.41254276745088325,
         0.4535114238984979,
         0.40670887781220777
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.0510211795788
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.02288698545763
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 7.20110134491158
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.59594011306763
+        }
       ]
     },
     {
@@ -5914,6 +7796,24 @@
         0.3167084053472543,
         0.3597908509689244,
         0.37100902600026814
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.56827559315155
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.55003983044049
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.33474525949093
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.87655019760132
+        }
       ]
     },
     {
@@ -5975,6 +7875,24 @@
         0.42853867588444855,
         0.4497199781929919,
         0.46086487942880333
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.91443816223486
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.89280426834555
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.13990074280709
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.927490234375
+        }
       ]
     },
     {
@@ -6036,6 +7954,24 @@
         0.41457091460618667,
         0.4189919214947707,
         0.4859221339081229
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.78313511878947
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.76606708787311
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.22574990905183
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.76098442077637
+        }
       ]
     },
     {
@@ -6097,6 +8033,24 @@
         0.49098797220556584,
         0.5159092035485946,
         0.5089586420584672
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.66193344308444
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.63617540271366
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.54801097393691
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.23357486724854
+        }
       ]
     },
     {
@@ -6158,6 +8112,40 @@
         0.4789601777715076,
         0.4933339941517573,
         0.5412905833221059
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.60806439419561
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.59324071686561
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.04106120651696
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.92248916625977
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 7.56460477981948
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 14.8541690044502
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 22.1301607908016
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 121.279322679945
+        }
       ]
     },
     {
@@ -6219,6 +8207,24 @@
         0.5385700680752006,
         0.6173365713436093,
         0.6490637208675718
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.64387431513526
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.62808637266585
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.96832129365764
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.22701501846313
+        }
       ]
     },
     {
@@ -6280,6 +8286,24 @@
         0.40806320764699705,
         0.43792436933141654,
         0.4709686110736897
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.00725349843033
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.994410986870043
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 8.14559552013783
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.4669361114502
+        }
       ]
     },
     {
@@ -6341,6 +8365,24 @@
         0.4679200028217704,
         0.5125638102790305,
         0.5352283443351753
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.46880359054141
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.44500726201352
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.99707815924032
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.64749526977539
+        }
       ]
     },
     {
@@ -6402,6 +8444,20 @@
         0.4528058974992074,
         0.5699558903702224,
         0.5489694193722205
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.55236007273393
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.50570601099558
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.88465775734062
+        }
       ]
     },
     {
@@ -6463,6 +8519,40 @@
         0.39945680928362337,
         0.41381275709966847,
         0.35390004041492945
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.03908453926558
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.02424457102852
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.54552140471303
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.53841352462769
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 9.9419036297971
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 7.48323892941038
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 16.3441899783027
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 94.3289902216164
+        }
       ]
     },
     {
@@ -6524,6 +8614,40 @@
         0.5186060456421289,
         0.4993804827278585,
         0.5267412097534682
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.40912038897532
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.38028853643661
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.41264489909018
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.52953290939331
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.56518938030052
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.25835749675666
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 15.3423273152919
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 58.1043163473694
+        }
       ]
     },
     {
@@ -6585,6 +8709,20 @@
         0.3435857641705764,
         0.3913862318481445,
         0.2837127845884424
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 0.95592721292342
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.940004350186365
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.68943423091419
+        }
       ]
     },
     {
@@ -6646,6 +8784,40 @@
         0.4819759444111317,
         0.5679734350993705,
         0.5037047016031244
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.65581095544848
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.63152748353361
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.63288718929253
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.75752925872803
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.10750447014968
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 5.19910603668044
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 12.7372897165285
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 50.1406342351046
+        }
       ]
     },
     {
@@ -6707,6 +8879,24 @@
         0.45703855243201325,
         0.4405511225652966,
         0.5169069109524449
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 0.856056054462911
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.835064421283269
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 11.48753894081
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.49453210830688
+        }
       ]
     },
     {
@@ -6715,60 +8905,8 @@
         "siteLocalId": "tovetorp_19-30-35",
         "dataset": "xspectre_c14384ma-01",
         "minDepth": "30",
-        "maxDepth": "35",
-        "scandatebegin": "20230627",
-        "scandateend": "20230627",
-        "sampleprep": "a0",
-        "instrument": "Hamamatsu C14384MA-01"
-      },
-      "signalMean": [
-        0.49038461538461553,
-        0.37395269911973755,
-        0.39776548239605714,
-        0.3585867311679334,
-        0.35852955523036684,
-        0.40172660305224867,
-        0.4269771116762552,
-        0.35440703409822,
-        0.3827154881772236,
-        0.312656809889094,
-        0.4046544947627253,
-        0.38123091126385616,
-        0.3748503923498919,
-        0.37303900195502043,
-        0.3646648195309713,
-        0.3792102611214903,
-        0.3745779453596547,
-        0.3785867591216773,
-        0.38340035233413905,
-        0.38703009536828004,
-        0.38800605706136393,
-        0.38936374269621615,
-        0.3845703170771718,
-        0.3855505171447497,
-        0.3847868720561861,
-        0.38506860923775654,
-        0.38507616690132607,
-        0.38723798264722786,
-        0.39064796966074256,
-        0.3761943922305765,
-        0.37873364756887556,
-        0.3732200248960316,
-        0.3721025927277671,
-        0.38658361418151815,
-        0.3853828332485732,
-        0.3751869766581166,
-        0.3704846822130771,
-        0.38708991917459934,
-        0.3667758450726618,
-        0.3716696116134848,
-        0.3328330917117739,
-        0.4282693444775167,
-        0.3983387122374474,
-        0.3622623540615859,
-        0.2848540417306838,
-        0.4321702815573197
-      ]
+        "maxDepth": "35"
+      }
     },
     {
       "id": "48-30-35",
@@ -6829,6 +8967,20 @@
         0.4175690451835914,
         0.42635178668781276,
         0.40603529570254915
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.58419111356917
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.56202952991954
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.09617219807021
+        }
       ]
     },
     {
@@ -6890,6 +9042,40 @@
         0.4637049839511829,
         0.5507260742429492,
         0.5460056580897203
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.56429671304715
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.53321692026892
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.03719008264464
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.80748653411865
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 0.875846819804422
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 5.853856132752
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 28.7679547230176
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 88.3965913304822
+        }
       ]
     },
     {
@@ -6951,6 +9137,20 @@
         0.22364290501216924,
         0.3232393319125736,
         0.35928869729219826
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.38126822824448
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.34530991556805
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.57769888026219
+        }
       ]
     },
     {
@@ -7012,6 +9212,24 @@
         0.43559310077246033,
         0.47026317093720515,
         0.39822174323049747
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 0.135878755565459
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.134021382732605
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 7.01959637320853
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.81550216674805
+        }
       ]
     },
     {
@@ -7073,6 +9291,20 @@
         0.4801065218158087,
         0.567106110918372,
         0.4789168799676632
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.42395304884114
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.40858875846982
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.49750249750248
+        }
       ]
     },
     {
@@ -7134,6 +9366,24 @@
         0.4034425593453494,
         0.34690489170838057,
         0.3995689074498184
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.09080998062285
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.05336000165471
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 12.2217032539312
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.6494402885437
+        }
       ]
     },
     {
@@ -7195,6 +9445,20 @@
         0.4809177806779303,
         0.49464737076869697,
         0.5330728815842661
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.18630310312859
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.17217793733694
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.59067357512951
+        }
       ]
     },
     {
@@ -7256,6 +9520,20 @@
         0.4993474656978591,
         0.5253010853942611,
         0.5511248821231297
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.51257127168987
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.48091485634807
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.78324430700027
+        }
       ]
     },
     {
@@ -7317,6 +9595,40 @@
         0.4465627314733169,
         0.4805967190365264,
         0.5318604337868781
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.75528295805862
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.70073942069023
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.91609836743129
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.58043909072876
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.4776269022339
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 17.6858792291035
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 26.8981060295518
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 81.8049474952974
+        }
       ]
     },
     {
@@ -7378,6 +9690,20 @@
         0.510299460336497,
         0.5244337612132621,
         0.5078809106830126
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.44890919001938
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.44343422951728
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.2911084043849
+        }
       ]
     },
     {
@@ -7439,6 +9765,20 @@
         0.5260660999612006,
         0.5570451504187937,
         0.4224706991782335
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.42901478949735
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.40419438470442
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.94206332112859
+        }
       ]
     },
     {
@@ -7500,6 +9840,20 @@
         0.48287538358435267,
         0.3582544481340144,
         0.4398491176074343
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.34147942720042
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.32060080440504
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.70654070385974
+        }
       ]
     },
     {
@@ -7561,6 +9915,20 @@
         0.3178371133293367,
         0.37042176735887383,
         0.4895594773002827
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.37728934814007
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.35916424652351
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.97376011910301
+        }
       ]
     },
     {
@@ -7622,6 +9990,36 @@
         0.48238157384219243,
         0.4996778510184859,
         0.5252593291122186
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.45288807012378
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.43342974775605
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.81184053421021
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 2.96139533253688
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.89825410195552
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 14.7024464912154
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 61.6766951256264
+        }
       ]
     },
     {
@@ -7683,6 +10081,40 @@
         0.3747134139889236,
         0.41681122069683296,
         0.29098747137276104
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.52052903189868
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.50410553249793
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.49050986229996
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.51635694503784
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 12.0572095054104
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 8.30381511742972
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 18.9920405979537
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 108.106826274304
+        }
       ]
     },
     {
@@ -7744,6 +10176,20 @@
         0.531110013756128,
         0.4745502304604248,
         0.6011046746598413
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.69559975649254
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.68519435768476
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.13076667772982
+        }
       ]
     },
     {
@@ -7805,6 +10251,20 @@
         0.451677189517125,
         0.49712543985726293,
         0.4441600431092569
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.46796245915419
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.45583304408165
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.16473988439306
+        }
       ]
     },
     {
@@ -7866,6 +10326,20 @@
         0.34570209163697946,
         0.43720572929573215,
         0.36656338407651734
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.64785319523967
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.63097452233478
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.0743664312422
+        }
       ]
     },
     {
@@ -7927,6 +10401,24 @@
         0.6565024161405233,
         0.6174109134162664,
         0.6269702276707524
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.51257127168987
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.47904407417058
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.17435757882052
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.66371870040894
+        }
       ]
     },
     {
@@ -7988,6 +10480,40 @@
         0.5505096821981591,
         0.5138028448233132,
         0.4302842516502773
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.85475496066877
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.84049324074249
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.45391801035284
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.02295684814453
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 4.16542324539366
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 11.9145256195763
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 17.0223849440347
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 105.680775938738
+        }
       ]
     },
     {
@@ -8049,6 +10575,24 @@
         0.40993263024232,
         0.5400208157803434,
         0.5368449413983551
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.26985958532112
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.25199389759622
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.48950036205646
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.65377902984619
+        }
       ]
     },
     {
@@ -8110,6 +10654,20 @@
         0.5740714613241147,
         0.6284878822421569,
         0.5976020476896143
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.6717264758661
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.65957042974605
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.80631942197779
+        }
       ]
     },
     {
@@ -8171,6 +10729,32 @@
         0.45557475926775104,
         0.5342716954948697,
         0.5333423144281287
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.79507175910268
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.97211360931396
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 6.10609980556792
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 17.2143845102465
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 17.1511411589071
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 105.261524740611
+        }
       ]
     },
     {
@@ -8232,6 +10816,20 @@
         0.42919121018658946,
         0.4282351191951231,
         0.42368314697561676
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.3932048685577
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.36560364002967
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.64939097205638
+        }
       ]
     },
     {
@@ -8293,6 +10891,24 @@
         0.31402772388981004,
         0.3760222034990339,
         0.28250033679105496
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.46084583033259
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.44104817219425
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.76924576106022
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.50160217285156
+        }
       ]
     },
     {
@@ -8354,6 +10970,20 @@
         0.413600931184085,
         0.474773256678396,
         0.4407921325609602
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.63591655492645
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.61958828070679
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.11899756398705
+        }
       ]
     },
     {
@@ -8415,6 +11045,20 @@
         0.5060844414659098,
         0.566660058482431,
         0.5453320759800617
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.55236007273393
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.53640928422231
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.995724520453
+        }
       ]
     },
     {
@@ -8476,6 +11120,20 @@
         0.3577298860710377,
         0.3088913118897756,
         0.4005119224033401
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.28577510573874
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.27145729111613
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.1840058934272
+        }
       ]
     },
     {
@@ -8537,6 +11195,24 @@
         0.4100208105534197,
         0.423948059671903,
         0.4135794153307267
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.38524710834888
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.37499393006041
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.33835683033541
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.68702936172485
+        }
       ]
     },
     {
@@ -8598,6 +11274,40 @@
         0.4586610701562558,
         0.43946077216632734,
         0.5536844941398312
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.63591655492645
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.60881316821871
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.99278540104682
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.90224266052246
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 6.96912470786268
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 14.6341159865159
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 24.4679770159842
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 124.369404517014
+        }
       ]
     },
     {
@@ -8659,6 +11369,40 @@
         0.4434058763359314,
         0.41294543291866953,
         0.43136198302573187
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.50063463137665
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.48927065944353
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.88906988108815
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.71636581420898
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.00873760077881
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.47064004178562
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 26.0883740388048
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 59.3053025861654
+        }
       ]
     },
     {
@@ -8720,6 +11464,24 @@
         0.3210997848400408,
         0.29593101055657434,
         0.37868786205038274
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.62000103450883
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.58576084261166
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.61488904795991
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.56357526779175
+        }
       ]
     },
     {
@@ -8781,6 +11543,20 @@
         0.3807096751437337,
         0.3846954453090151,
         0.40994207193856735
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.56031783294274
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.53381389309596
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.7317900618639
+        }
       ]
     },
     {
@@ -8842,6 +11618,20 @@
         0.4040069133363909,
         0.5304802497893637,
         0.5181193587498324
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.31362726646958
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.2905283160653
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 7.02295581106527
+        }
       ]
     },
     {
@@ -8903,6 +11693,24 @@
         0.5422383690169654,
         0.5101600832631212,
         0.4902330594099408
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.68258231373719
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.65853194994779
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.85050348567005
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.8407187461853
+        }
       ]
     },
     {
@@ -8964,6 +11772,24 @@
         0.5606680540368943,
         0.5201467016900421,
         0.4649063720867586
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.78313511878947
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.76668434254882
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.39076528430951
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.80960512161255
+        }
       ]
     },
     {
@@ -9025,6 +11851,24 @@
         0.4853797044195975,
         0.38060663131288175,
         0.4903677758318742
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.50775137893475
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.49615612296882
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.44773299748113
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.67016649246216
+        }
       ]
     },
     {
@@ -9086,6 +11930,20 @@
         0.32515607915064726,
         0.3525053278485406,
         0.3750505186582234
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.56827559315155
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.54428667394464
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.17417567619562
+        }
       ]
     },
     {
@@ -9147,6 +12005,24 @@
         0.5125921484250994,
         0.5783069831986918,
         0.5333423144281287
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.77119847847625
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.75559469986667
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.5060464832922
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.07637023925781
+        }
       ]
     },
     {
@@ -9208,6 +12084,12 @@
         0.37395506331346406,
         0.38221737622044877,
         0.3968745790111803
+      ],
+      "abundances": [
+        {
+          "substance": "pH.pH",
+          "value": 6.06906890869141
+        }
       ]
     },
     {
@@ -9269,6 +12151,40 @@
         0.4464040069133362,
         0.4889725925558806,
         0.5526067627643804
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.37331046803567
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.36405100620148
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.35214231823056
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.75643157958984
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.1138592352929
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 8.03337675233122
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 32.3337515210714
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 114.871526569495
+        }
       ]
     },
     {
@@ -9330,6 +12246,40 @@
         0.24955028041338936,
         0.3791693512415121,
         0.25730836588980144
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.58021223346477
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.56222633677042
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.04846274101095
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.02370119094849
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.32993746862683
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 11.3859338055508
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 20.389661488538
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 70.8988716401722
+        }
       ]
     },
     {
@@ -9391,6 +12341,24 @@
         0.3858946774364226,
         0.4532140556078705,
         0.6993129462481449
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.51257127168987
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.4960442011137
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.62005880431234
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.82658386230469
+        }
       ]
     },
     {
@@ -9452,6 +12420,24 @@
         0.5070720609502308,
         0.49705109778460627,
         0.5439849117607445
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.85077608056436
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.82272166214037
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.18143478846068
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.0131402015686
+        }
       ]
     },
     {
@@ -9513,6 +12499,24 @@
         0.40758703396705587,
         0.4950190811319814,
         0.3891957429610651
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.40116262876651
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.39382338624249
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.65034209578681
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.29247093200684
+        }
       ]
     },
     {
@@ -9574,6 +12578,40 @@
         0.3645374060879691,
         0.36759676859790746,
         0.4874040145493735
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.44095142981057
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.42487130055721
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.23934934159566
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.70458745956421
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 12.9352622240757
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 9.7659124586683
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 16.0949743495898
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 97.6231031995842
+        }
       ]
     },
     {
@@ -9635,6 +12673,24 @@
         0.49772494797361655,
         0.46049957872825503,
         0.48511383537653086
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.3932048685577
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.37425149103551
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.99951697185264
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.69842386245728
+        }
       ]
     },
     {
@@ -9696,6 +12752,24 @@
         0.3768826496419884,
         0.4271447687961538,
         0.5198706722349457
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.54042343242071
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.59788951391382
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.3615903975994
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.63089990615845
+        }
       ]
     },
     {
@@ -9704,60 +12778,8 @@
         "siteLocalId": "tovetorp_21-30-40",
         "dataset": "xspectre_c14384ma-01",
         "minDepth": "30",
-        "maxDepth": "40",
-        "scandatebegin": "20230627",
-        "scandateend": "20230627",
-        "sampleprep": "a0",
-        "instrument": "Hamamatsu C14384MA-01"
-      },
-      "signalMean": [
-        0.4903846153846147,
-        0.35738678544914576,
-        0.20487822234873432,
-        0.28049412577747135,
-        0.3254046383752364,
-        0.3486463805053925,
-        0.391257829024798,
-        0.3596111230252342,
-        0.33702297883946614,
-        0.3464458608740084,
-        0.3571608356405739,
-        0.37114826454537964,
-        0.3728202216439888,
-        0.3591414787831053,
-        0.37010564344197705,
-        0.3731902809235926,
-        0.3796141079035223,
-        0.3782220421150584,
-        0.3882024699159703,
-        0.393013483414508,
-        0.39567993718603023,
-        0.39544807216958905,
-        0.39666283893042104,
-        0.4000101900443266,
-        0.40297915374601206,
-        0.40589333641777875,
-        0.406022700125547,
-        0.40201553399663525,
-        0.3942601945968207,
-        0.39983070657412756,
-        0.42101051092682684,
-        0.41224148819261763,
-        0.40746903110843935,
-        0.41309155417756227,
-        0.42286941289484103,
-        0.4152192574392294,
-        0.4230001606544816,
-        0.429902467263148,
-        0.4300796351230417,
-        0.41501807388929324,
-        0.41452060582660155,
-        0.391699988976078,
-        0.44170943336331425,
-        0.4155408980282883,
-        0.40318184070971946,
-        0.44456419237504924
-      ]
+        "maxDepth": "40"
+      }
     },
     {
       "id": "27-15-20",
@@ -9818,6 +12840,40 @@
         0.5073895100701913,
         0.5548644496208556,
         0.7316448875117836
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.12661990156251
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.11855533533801
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.89690996270646
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.71079778671265
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.29900519535959
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 5.01260785770564
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 12.6946099841801
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 57.6356572365756
+        }
       ]
     },
     {
@@ -9879,6 +12935,24 @@
         0.5374413600931182,
         0.43405858155325394,
         0.4521083120032341
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 2.43012036208097
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 2.41261535801264
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.36089622371213
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.84471893310547
+        }
       ]
     },
     {
@@ -9940,6 +13014,40 @@
         0.37289689958026234,
         0.39386430093671004,
         0.49023305940994133
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.23007078427706
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.21354101694789
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.32777099443766
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.44841003417969
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.25395140851051
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.21408094212682
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 16.5727743930943
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 54.4707714871642
+        }
       ]
     },
     {
@@ -10001,6 +13109,24 @@
         0.45687982787203285,
         0.5282995489914252,
         0.5716017782567694
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.91443816223486
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.85658350486411
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.07525570683465
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.15398931503296
+        }
       ]
     },
     {
@@ -10062,6 +13188,20 @@
         0.34360340023279506,
         0.34033800862368124,
         0.40010777313754353
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.13855654187572
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.12487740727144
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.12250623441398
+        }
       ]
     },
     {
@@ -10123,6 +13263,24 @@
         0.4880603858770415,
         0.5157605194032814,
         0.608244645022226
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.67968423607491
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.63449633160604
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.58763018337486
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.11579036712646
+        }
       ]
     },
     {
@@ -10184,6 +13342,20 @@
         0.41846848435681266,
         0.4840164543787479,
         0.5311868516772164
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.6717264758661
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.80062473589596
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.91610119358319
+        }
       ]
     },
     {
@@ -10245,6 +13417,24 @@
         0.5847060068427917,
         0.5787530356346337,
         0.5433113296510822
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.69162087638813
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.68529788458661
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.29159306130722
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.63549852371216
+        }
       ]
     },
     {
@@ -10306,6 +13496,24 @@
         0.5367006454798776,
         0.7035733756257117,
         0.5970631820018891
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.25394406490349
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.24717358452046
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.86881146294483
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.56965017318726
+        }
       ]
     },
     {
@@ -10367,6 +13575,40 @@
         0.38783464428062625,
         0.48446250681468944,
         0.4809376262966464
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.42503590939294
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.40388371306038
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.56352665102247
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.56248426437378
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.07286099059967
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.70101723816642
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 20.5463023187976
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 75.8179872931146
+        }
       ]
     },
     {
@@ -10428,6 +13670,28 @@
         0.5148672004514829,
         0.5713436090598195,
         0.5601508823925657
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.30169062615636
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.28853478436938
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.52156962185808
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.35263967514038
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.06433820724487
+        }
       ]
     },
     {
@@ -10489,6 +13753,20 @@
         0.40711086028711435,
         0.41237547702829885,
         0.3734339215950436
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.63193767482204
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.59828651021962
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.79369627507164
+        }
       ]
     },
     {
@@ -10550,6 +13828,24 @@
         0.5405982152305039,
         0.5362293700748375,
         0.5435807624949486
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.60806439419561
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.59379957750738
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 10.1111044019081
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.08946132659912
+        }
       ]
     },
     {
@@ -10611,6 +13907,40 @@
         0.47522133258086224,
         0.5099370570451505,
         0.5938299878755217
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.50063463137665
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.48157051725769
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.65842040077487
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.50720691680908
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.32070200037691
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 7.10055823282276
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 24.582082979282
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 77.7699677898658
+        }
       ]
     },
     {
@@ -10672,6 +14002,24 @@
         0.4115551479665626,
         0.46275462159884984,
         0.5027616866496032
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.42105702928854
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.36018193247932
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.19797214660511
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.73646306991577
+        }
       ]
     },
     {
@@ -10733,6 +14081,40 @@
         0.4589079750273362,
         0.5193289388908165,
         0.5319951502088078
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.43697254970616
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.42018901205211
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.38909678181746
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.6838493347168
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 14.6988510023533
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 10.7771643241002
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 17.0768941316282
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 106.508308760018
+        }
       ]
     },
     {
@@ -10794,6 +14176,24 @@
         0.47564459807414144,
         0.4814640432175249,
         0.473797655934257
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.40514150887091
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.39138077006265
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.18540097382331
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.68907499313354
+        }
       ]
     },
     {
@@ -10802,60 +14202,8 @@
         "siteLocalId": "tovetorp_38-25-30",
         "dataset": "xspectre_c14384ma-01",
         "minDepth": "25",
-        "maxDepth": "30",
-        "scandatebegin": "20230627",
-        "scandateend": "20230627",
-        "sampleprep": "a0",
-        "instrument": "Hamamatsu C14384MA-01"
-      },
-      "signalMean": [
-        0.5528846153846161,
-        0.5568989288365686,
-        0.6073582522371856,
-        0.5081202487906018,
-        0.5249966742051333,
-        0.49595157430143255,
-        0.4694287383850604,
-        0.5461219529630424,
-        0.5655234068989549,
-        0.5375262851041251,
-        0.5341826560049564,
-        0.5197922133765012,
-        0.5131042004517846,
-        0.5389681992714384,
-        0.5202410677992816,
-        0.521049211662962,
-        0.5290218463238308,
-        0.5328320350608611,
-        0.5425498618385166,
-        0.54011531290685,
-        0.5372805717353161,
-        0.5427723799169745,
-        0.5340160764922314,
-        0.5510133999082895,
-        0.548020136665605,
-        0.5370334087920856,
-        0.5405842258016967,
-        0.5478730660008845,
-        0.5403150615193653,
-        0.530177607480239,
-        0.5412182088574093,
-        0.528206938732888,
-        0.548158325998125,
-        0.5505516744012293,
-        0.5553348025088999,
-        0.5553810725649343,
-        0.5528460559324756,
-        0.545542145720211,
-        0.5438720023259089,
-        0.5349697998591045,
-        0.5443333066214033,
-        0.5203591794193396,
-        0.5595338870959209,
-        0.5202991076152521,
-        0.5823214551221685,
-        0.5505860164354045
-      ]
+        "maxDepth": "30"
+      }
     },
     {
       "id": "43-5-10",
@@ -10916,6 +14264,20 @@
         0.36681245811435287,
         0.35243098577588355,
         0.40266738515424877
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.11866214135369
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.10000425212154
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 8.10480520115364
+        }
       ]
     },
     {
@@ -10977,6 +14339,24 @@
         0.3413988924552926,
         0.3440551122565301,
         0.32507072612151294
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.72659043772785
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.70394375074596
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.17518248175182
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.70244884490967
+        }
       ]
     },
     {
@@ -11038,6 +14418,40 @@
         0.3565835420267366,
         0.5099370570451509,
         0.42732049036777714
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.34545830730483
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.27965789187294
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.55426689576176
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.4195671081543
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 9.08751471106784
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 15.3017103823698
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 25.233311856597
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 131.828172209967
+        }
       ]
     },
     {
@@ -11099,6 +14513,24 @@
         0.42658107297802617,
         0.5175942905288196,
         0.4965647312407387
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.10274662093607
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.08466317868305
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.99331914683032
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.92132806777954
+        }
       ]
     },
     {
@@ -11160,6 +14592,24 @@
         0.437391979118902,
         0.3727511523021261,
         0.5768557187121084
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.6001066339868
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.58685554154939
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.71604046242774
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.79773664474487
+        }
       ]
     },
     {
@@ -11221,6 +14671,40 @@
         0.5496278790871568,
         0.516206571839222,
         0.5433113296510854
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.50859239158546
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.49593674693198
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.27634885669076
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.01967287063599
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 6.53974538682066
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 14.9285781115731
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 21.481657349394
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 113.364238450183
+        }
       ]
     },
     {
@@ -11282,6 +14766,24 @@
         0.5397164121195016,
         0.562001288595926,
         0.4894247608783488
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.62795879471764
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.59686276868
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.58351057175028
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.28952264785767
+        }
       ]
     },
     {
@@ -11343,6 +14845,24 @@
         0.33781877182462766,
         0.4141101253902959,
         0.36952714535901804
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.11866214135369
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 0.874625709321478
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 7.78426770020195
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.53572702407837
+        }
       ]
     },
     {
@@ -11404,6 +14924,20 @@
         0.5402102218616621,
         0.4768052733310204,
         0.4752795365755071
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.4864452638001
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.47895392614492
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.44176582303012
+        }
       ]
     },
     {
@@ -11465,6 +14999,20 @@
         0.35998730203520213,
         0.4827774198344649,
         0.3926983699312958
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.56827559315155
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.54698871060945
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.49129752235341
+        }
       ]
     },
     {
@@ -11526,6 +15074,24 @@
         0.48677295333497866,
         0.543291866977251,
         0.6062238986932507
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.5324656722119
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.50870986274976
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.34486330307739
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.868004322052
+        }
       ]
     },
     {
@@ -11587,6 +15153,40 @@
         0.43023173785757185,
         0.4378500272587595,
         0.4914455072073251
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.69559975649254
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.672913418428
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.18804768295571
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.62776613235474
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.33117584943799
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 4.46137647070522
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 16.6454854457616
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 57.6064621607484
+        }
       ]
     },
     {
@@ -11648,6 +15248,40 @@
         0.25685161017248126,
         0.40407394558160203,
         0.3058062777852613
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.51655015179428
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.59501233697043
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 6.49767169334197
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.54177236557007
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 8.61710038556592
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 9.75142184248638
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 18.3992755962486
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 92.7576945458312
+        }
       ]
     },
     {
@@ -11709,6 +15343,24 @@
         0.38751719516066513,
         0.5124894682063739,
         0.530378553145628
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.16640870260656
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.1511675935508
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.0036231884058
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.95618867874146
+        }
       ]
     },
     {
@@ -11770,6 +15422,20 @@
         0.5158371838735846,
         0.5737225553848443,
         0.44240872962413946
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.58021223346477
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.52437990274768
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.00366151342554
+        }
       ]
     },
     {
@@ -11831,6 +15497,20 @@
         0.4015731367500264,
         0.4802993507458986,
         0.34958911491311156
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.68764199628373
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.67925182678893
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 1.54412758480876
+        }
       ]
     },
     {
@@ -11892,6 +15572,20 @@
         0.5287467814186447,
         0.5422758586509383,
         0.5363060757106299
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.69162087638813
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.6685162527417
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.84852546916889
+        }
       ]
     },
     {
@@ -11953,6 +15647,40 @@
         0.5214454516595531,
         0.5931010556574312,
         0.5888454802640409
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.47278247064581
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.45841468572616
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.14203397440694
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.40098762512207
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 1.3462487768857
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 6.2510015815684
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 16.4474356157358
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 62.7157560042894
+        }
       ]
     },
     {
@@ -12014,6 +15742,20 @@
         0.4741808049098793,
         0.4986618426921737,
         0.5928869729219962
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.45686695022819
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.44524063325276
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.49991987436302
+        }
       ]
     },
     {
@@ -12075,6 +15817,20 @@
         0.3608867412084231,
         0.3480695841800069,
         0.49252323858278396
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.43697254970616
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.40670629128063
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.87167736021998
+        }
       ]
     },
     {
@@ -12136,6 +15892,20 @@
         0.3974286621283203,
         0.351489319522228,
         0.4442947595311861
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.59612775388239
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.57440018262886
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.70592308176498
+        }
       ]
     },
     {
@@ -12197,6 +15967,20 @@
         0.47726711579838405,
         0.5256727957575456,
         0.5881718981543829
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.37728934814007
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.36792658940034
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 2.64676410628519
+        }
       ]
     },
     {
@@ -12258,6 +16042,40 @@
         0.3954005149730172,
         0.5066660058482431,
         0.4574969688805066
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.75926183816303
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.74239356334703
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.49382065249223
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.04950952529907
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 4.8935846080099
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 16.0130865044329
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 22.1089106630446
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 117.51195369284
+        }
       ]
     },
     {
@@ -12319,6 +16137,28 @@
         0.3997037141547038,
         0.35518164246419287,
         0.44887511787686657
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.04306341936998
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.01615823210399
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 9.17281702290809
+        },
+        {
+          "substance": "pH.pH",
+          "value": 7.37291049957275
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.76215505599976
+        }
       ]
     },
     {
@@ -12380,6 +16220,20 @@
         0.2722126203661243,
         0.297318729246171,
         0.2648524855179863
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.34545830730483
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.31346167692897
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.5309996516893
+        }
       ]
     },
     {
@@ -12441,6 +16295,24 @@
         0.4097739056823396,
         0.4637706299251625,
         0.4933315371143749
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.52848679210749
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.47588358129909
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.38214549607039
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.57362079620361
+        }
       ]
     },
     {
@@ -12502,6 +16374,20 @@
         0.3987160946703831,
         0.45948357040194243,
         0.34379630877003936
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.58419111356917
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.56434809778535
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 5.34956221809499
+        }
       ]
     },
     {
@@ -12563,6 +16449,24 @@
         0.4655567704842869,
         0.43646230856916285,
         0.517580493062103
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.74334631774541
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.72437333232218
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.08937724788309
+        },
+        {
+          "substance": "pH.pH",
+          "value": 5.92262363433838
+        }
       ]
     },
     {
@@ -12624,6 +16528,44 @@
         0.4922048604987479,
         0.502725875997423,
         0.5346894786474459
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.38524710834888
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.37339503584423
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 4.18476115278325
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.00320386886597
+        },
+        {
+          "substance": "pH.pH",
+          "value": 6.07508563995361
+        },
+        {
+          "substance": "P_AL.mg_100g-1",
+          "value": 7.21234332667954
+        },
+        {
+          "substance": "K_AL.mg_100g-1",
+          "value": 17.3120091501832
+        },
+        {
+          "substance": "Mg_AL.mg_100g-1",
+          "value": 26.394521322349
+        },
+        {
+          "substance": "Ca_AL.mg_100g-1",
+          "value": 127.551765987997
+        }
       ]
     },
     {
@@ -12685,6 +16627,20 @@
         0.4588197947162362,
         0.5805868067601714,
         0.4044186986393615
+      ],
+      "abundances": [
+        {
+          "substance": "BulkDensity_60C.mg_mm3",
+          "value": 1.55633895283833
+        },
+        {
+          "substance": "BulkDensity_105C.mg_mm3",
+          "value": 1.7391510552338
+        },
+        {
+          "substance": "C_LossOfIgnition.pct",
+          "value": 3.8979870351416
+        }
       ]
     }
   ]
