@@ -1,23 +1,20 @@
 {
   "RandomTuning": {
-    "fraction": 0.5,
-    "nIterSearch": 30,
-    "n_best_report": 3,
     "OLS": {
       "apply": false,
-      "tuningparams": {}
+      "tuningParams": {}
     },
     "TheilSen": {
       "apply": false,
-      "tuningparams": {}
+      "tuningParams": {}
     },
     "Huber": {
       "apply": false,
-      "tuningparams": {}
+      "tuningParams": {}
     },
     "KnnRegr": {
       "apply": false,
-      "tuningparams": {
+      "tuningParams": {
         "n_neighbors": {
           "min": 4,
           "max": 12
@@ -44,7 +41,7 @@
     },
     "DecTreeRegr": {
       "apply": false,
-      "tuningparams": {
+      "tuningParams": {
         "max_depth": [
           3,
           0
@@ -61,7 +58,7 @@
     },
     "SVR": {
       "apply": false,
-      "tuningparams": {
+      "tuningParams": {
         "kernel": [
           "linear",
           "rbf"
@@ -81,7 +78,7 @@
     },
     "RandForRegr": {
       "apply": true,
-      "tuningparams": {
+      "tuningParams": {
         "max_depth": [
           3,
           2,
@@ -112,7 +109,7 @@
     },
     "MLP": {
       "apply": false,
-      "tuningparams": {
+      "tuningParams": {
         "alpha": {
           "min": 0.0001,
           "max": 0.001

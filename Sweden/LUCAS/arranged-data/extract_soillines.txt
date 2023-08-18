@@ -1,4 +1,6 @@
 # OSSL LUCAS Sweden soillines
 
 
+## /Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/json-soillines/soillines_ossl-spectra_sweden-LUCAS_nir_460-1050_10.json
+
 /Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/json-soillines/soillines_ossl-spectra_sweden-LUCAS_nir_460-1050_10.json

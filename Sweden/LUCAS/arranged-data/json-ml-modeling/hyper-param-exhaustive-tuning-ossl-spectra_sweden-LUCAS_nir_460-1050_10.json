@@ -1,8 +1,5 @@
 {
   "ExhaustiveTuning": {
-    "fraction": 0.5,
-    "nIterSearch": 30,
-    "n_best_report": 3,
     "OLS": {
       "apply": false,
       "tuningparams": {

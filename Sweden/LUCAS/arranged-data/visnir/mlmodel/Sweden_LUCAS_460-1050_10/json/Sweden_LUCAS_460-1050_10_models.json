@@ -1,0 +1,134 @@
+{
+  "originalInputColumns": 59,
+  "globalTweaks": {
+    "removeOutliers": {
+      "method": "RFECV",
+      "nOutliersRemoved": 411
+    },
+    "featureAgglomeration": {
+      "method": "WardClustering",
+      "n_clusters": 12,
+      "tuneWardClusteringApplied": true
+    }
+  },
+  "modelFeatureSelection": {
+    "cec_usda.a723_cmolc.kg": {
+      "RandForRegr": {
+        "method": "RFECV",
+        "nFeaturesRemoved": 0
+      }
+    }
+  },
+  "hyperParameterTuning": {
+    "fraction": 0.5,
+    "nIterSearch": 6,
+    "randomTuning": {
+      "RandForRegr": {
+        "max_depth": [
+          3,
+          2,
+          1,
+          0
+        ],
+        "n_estimators": {
+          "min": 10,
+          "max": 50
+        },
+        "max_features": {
+          "min": 1,
+          "max": 12
+        },
+        "min_samples_split": {
+          "min": 2,
+          "max": 6
+        },
+        "min_samples_leaf": {
+          "min": 1,
+          "max": 4
+        },
+        "bootstrap": [
+          true,
+          false
+        ]
+      }
+    },
+    "results": {
+      "cec_usda.a723_cmolc.kg": {
+        "RandForRegr": {
+          "1": {
+            "mean_test_score": 0.4395783545411536,
+            "std": 0.0282,
+            "hyperParameters": {
+              "bootstrap": false,
+              "max_depth": 2,
+              "max_features": 2,
+              "min_samples_leaf": 1,
+              "min_samples_split": 4,
+              "n_estimators": 33
+            }
+          },
+          "2": {
+            "mean_test_score": 0.3978005872192016,
+            "std": 0.136,
+            "hyperParameters": {
+              "bootstrap": true,
+              "max_depth": 3,
+              "max_features": 9,
+              "min_samples_leaf": 3,
+              "min_samples_split": 4,
+              "n_estimators": 10
+            }
+          },
+          "3": {
+            "mean_test_score": 0.3856539198721788,
+            "std": 0.1837,
+            "hyperParameters": {
+              "bootstrap": true,
+              "max_depth": 3,
+              "max_features": 4,
+              "min_samples_leaf": 1,
+              "min_samples_split": 5,
+              "n_estimators": 45
+            }
+          }
+        }
+      }
+    }
+  },
+  "modelResults": {
+    "cec_usda.a723_cmolc.kg": {
+      "RandForRegr": {
+        "mse": 147.79266354502755,
+        "r2": 0.4579076009580588,
+        "hyperParameterSetting": {
+          "n_estimators": 33,
+          "bootstrap": false,
+          "max_depth": 2,
+          "max_features": 2,
+          "min_samples_leaf": 1,
+          "min_samples_split": 4
+        },
+        "hyperParameters": {
+          "bootstrap": false,
+          "ccp_alpha": 0.0,
+          "criterion": "squared_error",
+          "max_depth": 2,
+          "max_features": 2,
+          "max_leaf_nodes": null,
+          "max_samples": null,
+          "min_impurity_decrease": 0.0,
+          "min_samples_leaf": 1,
+          "min_samples_split": 4,
+          "min_weight_fraction_leaf": 0.0,
+          "n_estimators": 33,
+          "n_jobs": null,
+          "oob_score": false,
+          "random_state": null,
+          "verbose": 0,
+          "warm_start": false
+        },
+        "pickle": "/Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/visnir/mlmodel/Sweden_LUCAS_460-1050_10/pickle/modelid_cec_usda.a723_cmolc.kg_RandForRegr.xsp"
+      }
+    }
+  }
+}

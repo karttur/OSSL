@@ -15,7 +15,8 @@
   },
   "input": {
     "jsonSpectraDataFilePath": "/Users/thomasgumbricht/docs-local/OSSL/Europe/LUCAS/arranged-data/visnir/data-visnir_LUCAS_460-1050_10.json",
-    "yband": 1045
+    "yband": 1045,
+    "samplingFrequency": 5
   },
   "model": {
     "regressor": "OLS",

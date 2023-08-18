@@ -1,0 +1,107 @@
+{
+  "originalInputColumns": 59,
+  "globalTweaks": {
+    "removeOutliers": {
+      "method": "1csvm",
+      "nOutliersRemoved": 411
+    }
+  },
+  "targetFeatureSelection": {
+    "oc_usda.c729_w.pct": {
+      "method": "SelectKBest",
+      "nFeaturesRemoved": 34
+    }
+  },
+  "modelFeatureSelection": {
+    "oc_usda.c729_w.pct": {
+      "MLP": {
+        "method": "PermutationSelector",
+        "nFeaturesRemoved": 15
+      }
+    }
+  },
+  "featureImportance": {
+    "oc_usda.c729_w.pct": {
+      "MLP": {
+        "permutationsImportance": {
+          "705": {
+            "mean_accuracy_decrease": 1.7611924283998932,
+            "std": 0.06818022117757666
+          },
+          "695": {
+            "mean_accuracy_decrease": 1.5727233317720195,
+            "std": 0.0592544366273636
+          },
+          "595": {
+            "mean_accuracy_decrease": 0.5990001214654287,
+            "std": 0.044607799414592926
+          },
+          "615": {
+            "mean_accuracy_decrease": 0.5048623082167173,
+            "std": 0.03045107482022332
+          },
+          "685": {
+            "mean_accuracy_decrease": 0.45932338528499794,
+            "std": 0.018329920278208574
+          },
+          "585": {
+            "mean_accuracy_decrease": 0.37126671013139345,
+            "std": 0.03194012509357387
+          },
+          "565": {
+            "mean_accuracy_decrease": 0.3589080465010008,
+            "std": 0.009362443431423074
+          },
+          "605": {
+            "mean_accuracy_decrease": 0.3543034787506552,
+            "std": 0.02873451780088468
+          },
+          "675": {
+            "mean_accuracy_decrease": 0.3289152869434565,
+            "std": 0.01608532127837882
+          },
+          "575": {
+            "mean_accuracy_decrease": 0.25160557780703907,
+            "std": 0.020815739216324614
+          }
+        }
+      }
+    }
+  },
+  "appliedModelingFeatures": {
+    "oc_usda.c729_w.pct": {
+      "MLP": [
+        "705",
+        "605",
+        "595",
+        "695",
+        "585",
+        "685",
+        "575",
+        "565",
+        "615",
+        "675"
+      ]
+    }
+  },
+  "modelResults": {
+    "Kfold": {
+      "oc_usda.c729_w.pct": {
+        "MLP": {
+          "mse": 39.86835957205113,
+          "r2": 0.8140383317570185,
+          "hyperParameterSetting": {
+            "hidden_layer_sizes": [
+              100,
+              100
+            ],
+            "max_iter": 200,
+            "tol": 0.001,
+            "epsilon": 1e-08
+          },
+          "pickle": "/Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/visnir/mlmodel/Sweden_LUCAS_460-1050_10/pickle/modelid_oc_usda.c729_w.pct_MLP_Kfold.xsp"
+        }
+      }
+    }
+  }
+}

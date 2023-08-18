@@ -14,8 +14,9 @@
     "geoRegion": "Sweden"
   },
   "input": {
-    "jsonSpectraDataFilePath": "/Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/visnir/data-visnir_LUCAS_460-1050_10.json",
-    "yband": 1025
+    "jsonSpectraDataFilePath": "/Users/thomasgumbricht/docs-local/OSSL/Sweden/LUCAS/arranged-data/visnir/data-visnir_LUCAS_400-2500_2.json",
+    "yband": 2500,
+    "samplingFrequency": 5
   },
   "model": {
     "regressor": "OLS",
